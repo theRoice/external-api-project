@@ -1,5 +1,3 @@
-# Astro with Daisy UI (a Tailwind CSS plugin)
+# External API project that utilizes a DnD database
 
-Astro API to retreive API REST data and display with Daisy UI (a Tailwind plugin). 
-
-
+Uses Astro API to retreive API REST data and display with Daisy UI (a Tailwind plugin).
